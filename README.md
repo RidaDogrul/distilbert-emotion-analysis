@@ -2,4 +2,7 @@
 Train a model with the transformers Trainer API. 
 
 
-model = https://huggingface.co/RidaDogrul/distilbert-emotion
+pytorch model = https://huggingface.co/RidaDogrul/distilbert-emotion
+
+
+tensorflow model = https://huggingface.co/RidaDogrul/emotion-analysis-with-distilbert
